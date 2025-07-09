@@ -5,8 +5,7 @@ import jetson_utils
 
 import argparse
 
-parser = nvidia
-argparse.ArgumentParser()
+parser = argparse.ArgumentParser()
 parser.add_argument("filename", type=str, help="filename of the image to process")
 parser.add_argument("--network", type=str, default="googlenet", help="model to use, can be:  googlenet, resnet-18, ect. (see --help for others)")
 opt = parser.parse_args()
