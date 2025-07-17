@@ -17,7 +17,7 @@ class_names = open("labels.txt", "r").readlines()
 data = np.ndarray(shape=(1, 224, 224, 3), dtype=np.float32)
 
 # Replace this with the path to your image
-image = Image.open("C:\\Users\Student\Desktop\leonardo\\test-image\\random-building-against-a-blue-sky-FJJMBF.jpg").convert("RGB")
+image = Image.open("example.jpg").convert("RGB")
 
 # resizing the image to be at least 224x224 and then cropping from the center
 size = (224, 224)
