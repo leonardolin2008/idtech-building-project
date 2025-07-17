@@ -1,0 +1,8 @@
+0 castle
+1 mansion
+2 skyscraper
+3 boathouse
+4 igloo
+5 farm
+6 factory
+7 tent
