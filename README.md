@@ -1,3 +1,5 @@
+https://img.shields.io/github/APACHE-2.0-LICENSE/:leonardolin2008/:idtech-building-project
+
 # 🧠 Image Classification with Keras
 
 This project demonstrates how to use a pre-trained Keras model to classify an input image. It loads a `.h5` model file and corresponding class labels, preprocesses an input image, and outputs the predicted class along with the confidence score.
