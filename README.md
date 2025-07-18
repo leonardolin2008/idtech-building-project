@@ -1,5 +1,5 @@
-[https://img.shields.io/github/APACHE-2.0-LICENSE/:leonardolin2008/:idtech-building-project](https://img.shields.io/github/license/leonardolin2008/idtech-building-project
-)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 
 # 🧠 Image Classification with Keras
 
